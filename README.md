@@ -1,2 +1,2 @@
 # Stock-Price-Prediction
-Python-SVM-SVR-Stock prediction models
+Python-Linear Regression-Stock prediction model
